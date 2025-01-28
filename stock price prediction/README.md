@@ -1,0 +1,1 @@
+This Jupyter notebook uses a LSTM based neural network for time series forecasting. This example attemtps to extrapolate the price history of a stock into the future. Requires a CSV with price data in standard OHLC format.
